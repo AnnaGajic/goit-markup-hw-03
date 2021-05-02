@@ -357,3 +357,18 @@ img {
 .dark-bg.section {
   padding: 200px 0 200px 0;
 }
+
+.overlay {
+  max-width:1600px;
+  height: 600px;
+  margin-left: 0;
+  margin-right: 0;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position:inherit;
+  outline: 1px solid black;
+  background-image:url("../images/img (16).jpg");
+
+
+}
+linear-gradient(to right, rgba(47, 48, 58, 0.4), 0px 0px 0px  rgba(47, 48, 58, 0.4)
